@@ -11,6 +11,10 @@ To simulate a real-time data processing pipeline using Apache Kafka with a local
 - Docker;
 - AWS account;
 
+## DIAGRAM 📈
+
+![Diagram](Diagram.jpg)
+
 ## STEP-BY-STEP GUIDE 👨🏻‍💻
 
 ### 1️⃣ Creating the Kafka cluster using Docker containers
